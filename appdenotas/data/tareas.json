@@ -1,0 +1,14 @@
+[
+    { 
+        "titulo" : "escuchar musica",
+        "esatdo" : "terminada"
+    },
+    {
+        "titulo" : "hacer los ejercicios",
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "correr",
+        "estado" : "pendiente"
+    }
+]
